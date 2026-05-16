@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+faiss-cpu
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+sentence-transformers
+rank-bm25
+python-dotenv
+pydantic 
+langchain-schema
