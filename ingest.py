@@ -40,5 +40,5 @@ def hybrid(query):
         if doc.page_content not in seen:
             unique.append(doc)
             seen.add(doc.page_content)
-    return unique[:2]     
+    return unique[:5]     
 
